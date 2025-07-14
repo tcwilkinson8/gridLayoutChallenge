@@ -1,0 +1,13 @@
+.images {
+    width: min(1000px, 100%);
+    margin: auto;
+    columns: 3 300px; /* how many colums and how big they can be */
+    column-gap: 1em; /* gap between colums */
+
+}
+
+img {
+    display: block;
+    margin-bottom: 1em;
+    width: 100%;
+}
